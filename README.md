@@ -1,3 +1,6 @@
+E-Shop 
+![image](https://github.com/AymanAbusura/Ecommerce-App/assets/113180347/f84d8643-f3b7-4a22-b7d9-26e99a3d2520)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
