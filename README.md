@@ -1,5 +1,5 @@
 ## E-Shop Modern Full Stack ECommerce Application with Stripe & Sanity
-![image](https://github.com/AymanAbusura/Ecommerce-App/assets/113180347/f84d8643-f3b7-4a22-b7d9-26e99a3d2520)
+![image](https://github.com/AymanAbusura/Ecommerce-App/assets/113180347/615c284e-0ce5-4d65-9db0-d4b020f5fb10)
 
 ## E-Shop
 
